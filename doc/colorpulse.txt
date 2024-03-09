@@ -1,0 +1,21 @@
+*colorpulse.txt*
+
+Author:  Jonathan Brink
+License: Same terms as Vim itself (see |license|)
+
+INTRODUCTION                                    *colorpulse*
+
+Prints out a word. For debugging.
+
+Invoke with either |:ColorPulsePrev| / |:ColorPulseNext| or ]c / [c.
+
+                                                *]c*
+Invoke previous colorscheme
+                                                *[c*
+Invoke next colorscheme
+
+ABOUT                                           *colorpulse-about*
+
+https://github.com/jonbri/vim-colorpulse
+
+ vim:tw=78:et:ft=help:norl:
