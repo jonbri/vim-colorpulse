@@ -1,3 +1,5 @@
 # vim-colorpulse
 
-Switch `colorscheme`.
+Switch `colorscheme` easily.
+
+See `:h ColorPulse`

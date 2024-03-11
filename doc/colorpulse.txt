@@ -13,6 +13,11 @@ Invoke with either |:ColorPulsePrev| / |:ColorPulseNext| or ]c / [c.
 Invoke previous colorscheme
                                                 *[c*
 Invoke next colorscheme
+                                                *:ColorPulse*
+Show information about currently-active colorscheme
+
+                                                *:ColorAll*
+Show all available colorschemes
 
 ABOUT                                           *colorpulse-about*
 
