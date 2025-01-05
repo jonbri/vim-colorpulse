@@ -5,7 +5,7 @@ License: Same terms as Vim itself (see |license|)
 
 INTRODUCTION                                    *colorpulse*
 
-Prints out a word. For debugging.
+Switch *colorscheme* easily.
 
 Invoke with either |:ColorPulsePrev| / |:ColorPulseNext| or ]c / [c.
 
